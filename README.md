@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Debasish Raut
 
-
 🚀 Passionate about AI/ML, Full-Stack Dev, and Clean UI  
 🎓 MCA in AI & ML | BSc in Computer Science  
 📍 Based in Chandigarh, India
@@ -40,12 +39,20 @@
 ![Zustand](https://img.shields.io/badge/-Zustand-333?style=flat&logo=react)
 
 ---
-### 📈 GitHub Stats & Top Skills
 
-| 📈 GitHub Stats | 🔥 Top Languages |
-|--------------|----------------|
-| ![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monster-migrate&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monster-migrate&layout=compact&theme=tokyonight) |
+<div style="display: grid; grid-template-columns: 50% 50%; gap: 12px">
+<div>
+    <h2>📈 GitHub Stats</h2>
+    
+![Debasish's GitHub stats](https://github-readme-stats.vercel.app/api?username=monster-migrate&show_icons=true&theme=tokyonight)
+</div>
+<div style="width: 100%">
+    <h2>🔥 Top Skills</h2>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monster-migrate&layout=compact&theme=tokyonight)
+</div>
 
+</div>
 
 ### 🛠️ Projects
 
