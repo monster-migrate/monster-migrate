@@ -7,6 +7,13 @@
 ---
 
 ### 🧰 Technical Proficiencies
+#### 📱 Mobile Development
+
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333?style=flat&logo=android-studio)
+![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+![Retrofit](https://img.shields.io/badge/-Retrofit-333?style=flat&logo=android)
 
 #### 🧩 Full-Stack Development
 
